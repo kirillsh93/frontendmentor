@@ -17,4 +17,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [<a href="https://kirillsh93.github.io/frontendmentor/nft-preview-card-component/" target="_blank">Preview</a>]
+- Live Site URL: [Preview](https://kirillsh93.github.io/frontendmentor/nft-preview-card-component/)
