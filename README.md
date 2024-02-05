@@ -3,3 +3,5 @@ My solutions for challenges from [Frontend Mentor](https://www.frontendmentor.io
 
 ### Challenges 🏆
 - [x] NFT Card Component [[Source](https://github.com/kirillsh93/frontendmentor/tree/main/nft-preview-card-component)] [[Preview](https://kirillsh93.github.io/frontendmentor/nft-preview-card-component/)]
+
+![](./nft-preview-card-component/badges/difficulty-newbie.svg) ![](./nft-preview-card-component/badges/html-css.svg)
